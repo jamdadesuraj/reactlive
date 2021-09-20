@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactlive/static/css/main.caf1a584.chunk.css",
+    "main.js": "/reactlive/static/js/main.c83de531.chunk.js",
+    "main.js.map": "/reactlive/static/js/main.c83de531.chunk.js.map",
+    "runtime-main.js": "/reactlive/static/js/runtime-main.0b2efe3d.js",
+    "runtime-main.js.map": "/reactlive/static/js/runtime-main.0b2efe3d.js.map",
+    "static/js/2.95fcb27d.chunk.js": "/reactlive/static/js/2.95fcb27d.chunk.js",
+    "static/js/2.95fcb27d.chunk.js.map": "/reactlive/static/js/2.95fcb27d.chunk.js.map",
+    "index.html": "/reactlive/index.html",
+    "static/css/main.caf1a584.chunk.css.map": "/reactlive/static/css/main.caf1a584.chunk.css.map",
+    "static/js/2.95fcb27d.chunk.js.LICENSE.txt": "/reactlive/static/js/2.95fcb27d.chunk.js.LICENSE.txt",
+    "static/media/contact.6ecc355d.jpg": "/reactlive/static/media/contact.6ecc355d.jpg",
+    "static/media/hero1.0fd00cc4.jpg": "/reactlive/static/media/hero1.0fd00cc4.jpg",
+    "static/media/hero2.0254eaf8.jpg": "/reactlive/static/media/hero2.0254eaf8.jpg",
+    "static/media/hero3.d56062bd.jpg": "/reactlive/static/media/hero3.d56062bd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b2efe3d.js",
+    "static/js/2.95fcb27d.chunk.js",
+    "static/css/main.caf1a584.chunk.css",
+    "static/js/main.c83de531.chunk.js"
+  ]
+}
